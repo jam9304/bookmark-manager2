@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/Valentina/Projects/makers/makers_projects/bookmark_manager/spec/setup_test_database.rb": {
+      "/Users/jamesmooney/Projects/bookmark-manager/spec/setup_test_database.rb": {
         "lines": [
           1,
           null,
@@ -9,10 +9,16 @@
           5,
           5,
           5,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
           null
         ]
       },
-      "/Users/Valentina/Projects/makers/makers_projects/bookmark_manager/app.rb": {
+      "/Users/jamesmooney/Projects/bookmark-manager/app.rb": {
         "lines": [
           1,
           1,
@@ -47,43 +53,49 @@
           null
         ]
       },
-      "/Users/Valentina/Projects/makers/makers_projects/bookmark_manager/lib/bookmark.rb": {
+      "/Users/jamesmooney/Projects/bookmark-manager/lib/bookmark.rb": {
         "lines": [
           1,
           null,
           1,
           null,
           1,
-          4,
-          4,
+          null,
+          1,
+          15,
+          15,
+          15,
+          null,
+          null,
+          1,
+          3,
+          3,
           null,
           0,
           null,
           null,
-          4,
-          12,
+          3,
+          10,
           null,
           null,
           1,
-          2,
-          2,
+          8,
+          8,
           null,
           0,
           null,
           null,
-          2,
+          8,
+          8,
           null,
           null
         ]
       },
-      "/Users/Valentina/Projects/makers/makers_projects/bookmark_manager/spec/bookmark_spec.rb": {
+      "/Users/jamesmooney/Projects/bookmark-manager/spec/bookmark_spec.rb": {
         "lines": [
           1,
-          null,
           1,
           null,
-          1,
-          1,
           1,
           null,
           1,
@@ -93,6 +105,13 @@
           1,
           1,
           1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
           1,
           null,
           null,
@@ -100,15 +119,29 @@
           1,
           1,
           1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
           1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
           null,
           null,
           null,
           null
         ]
       },
-      "/Users/Valentina/Projects/makers/makers_projects/bookmark_manager/spec/features/add_bookmarks_spec.rb": {
+      "/Users/jamesmooney/Projects/bookmark-manager/spec/features/add_bookmarks_spec.rb": {
         "lines": [
+          1,
           1,
           1,
           1,
@@ -119,7 +152,7 @@
           null
         ]
       },
-      "/Users/Valentina/Projects/makers/makers_projects/bookmark_manager/spec/features/index_spec.rb": {
+      "/Users/jamesmooney/Projects/bookmark-manager/spec/features/index_spec.rb": {
         "lines": [
           1,
           1,
@@ -129,15 +162,12 @@
           null
         ]
       },
-      "/Users/Valentina/Projects/makers/makers_projects/bookmark_manager/spec/features/view_bookmarks_spec.rb": {
+      "/Users/jamesmooney/Projects/bookmark-manager/spec/features/view_bookmarks_spec.rb": {
         "lines": [
           1,
           null,
           1,
           1,
-          null,
-          1,
-          null,
           1,
           1,
           1,
@@ -152,6 +182,6 @@
         ]
       }
     },
-    "timestamp": 1647365924
+    "timestamp": 1647537502
   }
 }
